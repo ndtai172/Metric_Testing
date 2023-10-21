@@ -1,0 +1,25 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+venv/
+env/
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore database files
+*.sqlite
+
+# Ignore IDE-specific files and directories
+.idea/
+.vscode/
+*.suo
+*.user
+*.sln
