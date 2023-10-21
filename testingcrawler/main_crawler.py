@@ -29,3 +29,5 @@ for item in sub_categories_data:
     # if i==1: break                                                        ## Thêm điều kiện dừng để testing chương trình
 
 print(time.time() - start_time)                                             ## In ra thời gian hoàn thành
+
+
